@@ -1,2 +1,6 @@
 ddddddddd
+<<<<<<< HEAD
 asdff
+=======
+asdf
+>>>>>>> test
